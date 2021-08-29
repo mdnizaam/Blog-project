@@ -3,7 +3,7 @@ import React from 'react'
 const Home = () => {
     return (
         <div>
-           Md Nizam
+         Hello world  Md Nizam
         </div>
     )
 }
